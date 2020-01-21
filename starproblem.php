@@ -1,5 +1,5 @@
 <?php
-echo "enter the valur of n="
+//Loop used to iterate the row
 for(i=1; i<=n; i++)
 {
 	for(j=1; j<=n*2; j++)
