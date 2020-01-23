@@ -1,10 +1,13 @@
 <?php
-for(i=1; i<=n; i++)
+//Take a varialbe 0
+for($i=1; $i<=5; $i++)
 {
-	for(j=1; j<=n*2-1; j++)
+	// $k=1;
+	for($j=1; $j<=9; $j++)
 	{
-	   if(j>=n+1-i)&&(j<=n-1=i)
+	   if($j>=6-i && $j<=4+i)
 	   {
+	   	// $k=0;
 	   echo"*";
 	   }
 	   else
